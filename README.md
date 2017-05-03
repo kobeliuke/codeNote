@@ -1,1 +1,2 @@
 # codeNote
+CRC verification algorithm
